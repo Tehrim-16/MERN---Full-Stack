@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    position: sticky;
+    top: 0%;
+    background-color: antiquewhite;
+    color: brown;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 80px;
+    list-style: none;
+    margin: auto;
+    padding: 0%;
+}
+h2{
+    align-content: space-evenly;
+    justify-content: flex;
+}
